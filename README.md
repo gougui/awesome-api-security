@@ -329,6 +329,7 @@ Name | Author | Description |
 | Hacker101 | [GraphQL challenges](https://www.hackerone.com/ethical-hacker/graphql-week-hacker101-capture-flag-challenges) | GraphQL Week on The Hacker101 Capture the Flag Challenges |
 | Karel Husa | [BankGround API](https://bankground.eu) | Banking-like REST and GraphQL API for training/learning purposes. |
 | Kontra | [OWASP Top 10 for API](https://application.security/free/owasp-top-10-API) | Is a series of free interactive application security training modules that teach developers how to identify and mitigate security vulnerabilities in their web API endpoints. |
+| LabEx | [LabEx Interactive Labs](https://labex.io/) | Interactive programming learning platform with hands-on labs for API security, Linux, Python, Docker, and cloud technologies. |
 | OWASP-SKF | [GraphQL Labs](https://demo.securityknowledgeframework.org/labs/view) | GraphQL Labs on the OWASP Security Knowledge Framework |
 | Pentester Academy | [API security, REST Labs](https://attackdefense.pentesteracademy.com/listing?labtype=rest&subtype=rest-api-security) | Pentester Academy - attack & defense |
 | Semgrep Academy | [API Security Mini Course](https://academy.semgrep.dev/courses/api-security-mini-course) | Learn the basics of API security in this short and fun mini course! |
